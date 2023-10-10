@@ -1,7 +1,8 @@
 Porovnání dostupnosti potravin na základě průměrných příjmů za určité časové období.
 
 Popis projektu
-		Zadaný projekt hledá odpovědi na pět výzkumných otázek (viz níže) o dostupnosti potravin široké veřejnosti v ČR a okrajově prokázat vztah mezi HDP a cenami potravin ve světovém měřítku v letech 2016-2018 z dat z Portálu otevřených dat ČR.
+
+Zadaný projekt hledá odpovědi na pět výzkumných otázek (viz níže) o dostupnosti potravin široké veřejnosti v ČR a okrajově prokázat vztah mezi HDP a cenami potravin ve světovém měřítku v letech 2016-2018 z dat z Portálu otevřených dat ČR.
 
 Výzkumné otázky
 1.	Rostou v průběhu let mzdy ve všech odvětvích, nebo v některých klesají?
@@ -29,7 +30,9 @@ o	year,
 o	population,
 o	GDP,
 o	Giny_index
+
 Odpovědi na otázky
+
 1.	Rostou v průběhu let mzdy ve všech odvětvích, nebo v některých klesají?
 Všechna sledovaná odvětví v letech 2016-2018 zaznamenala nárůst mezd. Největšího procentuálního nárustu mezd dosáhlo odvětví zdravotnictví a sociální péče 77,84 %. Narozdíl od odvětví peněžnictví a pojišťovnictví, které mělo nejnižší nárust 37,12 %. 
 Pokud se na data podíváme podrobněji pohledem meziročního růstu, zjistíme, že poklesu ve mzdách docházelo ale jen ojediněle. Nejčastěji se tak dělo v letech 2012/2013, kdy se pokles týkal mírné nadpoloviční většiny kategorií odvětví, u nichž mzdy klesaly průměrně o -0,4 % až o -4,4 %. Výmečný pokles můžeme sledovat v roce 2013 v oboru Peněžnictví a bankovnictví a to o – 8,83 %. K dalšímu poklesu mezd dále docházelo především v období let 2009–2011, propady byly ale velmi mírné, naprostá většina z nich se pohybovala kolem -1 %. Tedy meziročně mzdy nerostly u všech odvětví po celé sledované období. Naopak v některých kategoriích oborů mzdy konstantně rostly po celou dobu měřeného období, jedná se o Zpracovatelský průmysl, Dopravu a skladování (stagnovala v roce 2011), Zdravotní a sociální péči a Ostatní činnosti.
